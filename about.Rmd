@@ -8,3 +8,16 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+Hi! I'm **Heather Li**- an incoming first-year at St Catherine's College, University of Oxford studying Philosophy, Politics, and Economics.
+
+## About the Project
+*A Timeline of Occupancy in Toronto Shelters*: Homelessness in Toronto is pervasive (add more details later).
+
+### Goals
+* Map the changes in occupancy of Toronto shelters throughout the year.
+* Analyze how COVID-19 may have affected the occupancy levels of shelters.
+  + It's going to be hard to tell whether the lower levels of occupancy in the summer are due to COVID or whether they're due to the warmer temperatures and not needing to use shelters to stay out of the cold.
+* See whether certain postal codes have chronic problems with either filling their shelters or too many people.
+
+[Kane's Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/)

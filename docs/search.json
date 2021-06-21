@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-06-21T14:36:11-04:00"
+      "contents": "\nAbout Me\nHi! I’m Heather Li- an incoming first-year at St Catherine’s College, University of Oxford studying Philosophy, Politics, and Economics.\nAbout the Project\nA Timeline of Occupancy in Toronto Shelters: Homelessness in Toronto is pervasive (add more details later).\nGoals\nMap the changes in occupancy of Toronto shelters throughout the year.\nAnalyze how COVID-19 may have affected the occupancy levels of shelters.\nIt’s going to be hard to tell whether the lower levels of occupancy in the summer are due to COVID or whether they’re due to the warmer temperatures and not needing to use shelters to stay out of the cold.\n\nSee whether certain postal codes have chronic problems with either filling their shelters or too many people.\nKane’s Free High School Data Science Bootcamp\n\n\n\n",
+      "last_modified": "2021-06-21T14:57:07-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2021-06-21T14:36:13-04:00"
+      "last_modified": "2021-06-21T14:57:08-04:00"
     }
   ],
   "collections": []
